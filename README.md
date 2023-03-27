@@ -1,5 +1,7 @@
 # APP PROKÉMON (NPM RUN DEV)
- porta: 3001
+
+- porta: 3001
+
 [x] Lista todos o Pokemons em páginas de 30
 [x] Clicando em "Ver" você verá um modal exibindo as prncipais abilidades e uma imagem do personágem
 [x] No campo busca você localiza seu Pokemon na lista
