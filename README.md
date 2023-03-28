@@ -1,6 +1,8 @@
 # APP PROKÉMON (NPM RUN DEV)
 
-- porta: 3001
+- porta: 3001 
+- É necessário utilizar a api abaixo simultaneamente como back-end:
+- https://github.com/herbertfeld/api-node-pokemons
 
 - [x] Lista todos o Pokemons em páginas de 30
 - [x] Clicando em "Ver" você verá um modal exibindo as prncipais abilidades e uma imagem do personágem
